@@ -19,14 +19,14 @@ This application is very simple that it does not use any external libraries but 
 You can clone the repository from the git command line as
 
   ```shell
-  git clone https://github.com/Pooventhiran/SweePy.git
+  git clone https://github.com/Bunny-079/SweePy.git
   ```
 If you have GitHub desktop, clone the repository from "File -> Clone Repository".
  
 # Usage - GUI-based Application
 The GUI application is available as **SweePy.exe** in the repository. Just open it to work with.
 
-![sweepy](https://github.com/Pooventhiran/SweePy/blob/master/images/sweepy-main.PNG)
+![sweepy](https://github.com/Bunny-079/SweePy/blob/master/images/sweepy-main.PNG)
 
 # Creating an Executable
 You can create the executable file on your own using **pyinstaller**. It will create the executable corresponding to the underlying operating system only i.e. it cannot create debian executable on windows or so.
